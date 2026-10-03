@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CODM Mapper</string>
+    <string name="service_desc">Turns controller input into touch gestures while Call of Duty Mobile is open.</string>
+</resources>
